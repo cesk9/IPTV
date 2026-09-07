@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/lg4.png" ,De portes1
-http://wplatino.live:8080/live/AQ79/b7QJjxEWPbSX/437065.ts
+http://liontv.es:8080/VianneyHernandez/HQDtq7pjG8/507366
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/lg4.png" ,De portes2
 http://wplatino.live:8080/live/rambal098/zxKyM3TYwkaf/437065.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/lg4.png" ,De portes3
@@ -32,41 +32,41 @@ http://23.153.217.158:8080/live/982266366tv/5g6wjmn/60262.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/lg4.png" ,D azn4
 http://23.153.217.158:8080/live/982266366tv/5g6wjmn/60265.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/lg4.png" ,D azn5
-http://wplatino.live:8080/live/AQ79/b7QJjxEWPbSX/124782.ts
+http://liontv.es:8080/VianneyHernandez/HQDtq7pjG8/781178
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/lg4.png" ,M ovis tar1
-http://tvgolat.org:8080/Erikapena83/7sJR3aBzNn/168252
+http://477177.solanaflix.com/live/TV-15822960/809288930878/112675.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/lg4.png" ,M ovis tar2
-http://flexlive.lat:8080//live/Gloria08/XgjQGskHSYum/269253.ts
+http://477177.solanaflix.com/live/TV-15822960/809288930878/56222.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/lg4.png" ,M ovis tar3
-http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/269252.ts
+http://490139.solanaflix.com/live/TV-87213199/695302513776/112675.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/lg4.png" ,M ovis tar4
-http://flexlive.lat:8080//live/Gloria08/XgjQGskHSYum/269252.ts
+http://490139.solanaflix.com/live/TV-87213199/695302513776/56222.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/chm.png" ,L Cam peo nes1
-http://tv.xplus1.me:8080/MarinaIbarra779/tQbWqqubtAJc/162012
+http://477177.solanaflix.com/live/TV-15822960/809288930878/114287.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/chm.png" ,L Cam peo nes2
-http://tvgolat.org:8080/Erikapena83/7sJR3aBzNn/160243
+http://477177.solanaflix.com/live/TV-15822960/809288930878/48514.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/chm.png" ,L Cam peo nes3
-http://teamcontrol.org:80/live/MentorA2025/MentorA2025/376384.ts
+http://490139.solanaflix.com/live/TV-87213199/695302513776/114287.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/chm.png" ,L Cam peo nes4
 http://490139.solanaflix.com/live/TV-87213199/695302513776/48514.m3u
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphdn.png" ,Norte1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/chm.png" ,Norte1
 http://181.65.191.173:8069/play/a04w
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphdn.png" ,Norte2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/chm.png" ,Norte2
 http://201.216.147.90:8729/play/a0p0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphdn.png" ,Norte3
-http://201.190.41.246:58002/play/a01t/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphdn.png" ,Norte4
-http://181.65.191.173:8069/play/a0g2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphds.png" ,Sur1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/chm.png" ,Norte3
+http://liontv.es:8080/VianneyHernandez/HQDtq7pjG8/388734
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/chm.png" ,Norte4
+http://liontv.es:8080/VianneyHernandez/HQDtq7pjG8/501081
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/chm.png" ,Sur1
 http://181.65.191.173:8069/play/a0fq
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphds.png" ,Sur2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/chm.png" ,Sur2
 http://181.78.8.199:8000/play/a0b1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphds.png" ,Sur3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/chm.png" ,Sur3
 http://190.233.27.76:8000/play/a09i/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphds.png" ,Sur4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/chm.png" ,Sur4
 http://181.65.191.173:8069/play/a0g7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphds.png" ,Sur5
-http://190.233.27.76:8000/play/a0cr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/chm.png" ,Sur5
+http://190.108.91.206:9050/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp+.png" ,Pre mium1
 http://205.235.6.29:8000/play/a0wl/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp+.png" ,Pre mium2
